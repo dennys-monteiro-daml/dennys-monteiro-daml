@@ -1,7 +1,7 @@
-Hi! Welcome to my profile!
-You can call me Dennys!
+# Hi! Welcome to my profile!
+## You can call me Dennys!
 
-# 💫About Me :
+### 💫About Me
 Born in 94, brazilian:brazil:, speaking portuguese, english, spanish
 Here are my studies cases and projects mostly done alone.
 
