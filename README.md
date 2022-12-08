@@ -2,8 +2,8 @@
 ## You can call me Dennys!
 
 ### 💫About Me
-Born in 94, brazilian:brazil:, speaking portuguese, english, spanish
-Here are my studies cases and projects mostly done alone.
+Born in 94, brazilian:brazil:, speaking portuguese, english and spanish.
+#Here are my studies cases and projects mostly done alone.
 
 I am fascinated by technology, but by the other hand I'm lazy lol
 
