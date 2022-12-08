@@ -3,14 +3,14 @@
 
 ### 💫About Me
 Born in 94, brazilian:brazil:, speaking portuguese, english and spanish.
-#Here are my studies cases and projects mostly done alone.
+Here are my studies cases and projects mostly done alone.
 
-I am fascinated by technology, but by the other hand I'm lazy lol
+I am fascinated by technology, but by the other hand, I'm lazy lol
 
 Still here to learn and support the community!
 
 
-## 🌐Social
+## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dennys-aml94) 
 
 # Tech Stack
