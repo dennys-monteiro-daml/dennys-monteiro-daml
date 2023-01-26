@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Dennys !</h1>
 <h3 align="center">An aspirant for Full Stack Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennys-monteiro-daml" alt="dennys-monteiro-daml" /></a> </p>
+<p align="left"> <a "https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+"><img src="https://github-profile-trophy.vercel.app/?username=dennys-monteiro-daml" alt="dennys-monteiro-daml" /></a> </p>
 
 - 🔭 I’m currently working on [improve Sass with Bootstrap](https://github.com/dennys-monteiro-daml/treinoBootstrap.git)
 
