@@ -12,7 +12,7 @@
 
 - 📫 How to reach me [**e-mail**](dennyshagamenom@gmail.com) or [Telegram](@devhagamenom)
 
-- 📄 Know about my experiences [here.](https://github.com/dennys-monteiro-daml/Caso-de-estudo---PHP-2023/blob/5bd5782cd87735a8be29ea172eaf604336d920bf/Profilelinkedin.pdf)
+- 📄 Know about my work experiences [**here.**](https://github.com/dennys-monteiro-daml/Caso-de-estudo---PHP-2023/blob/5bd5782cd87735a8be29ea172eaf604336d920bf/Profilelinkedin.pdf)
 
 - ⚡ Fun fact **most of the time when I'm impulsive, people think I'm being firm in my decision and prepared for the consequences, when in fact, I'm just interested and excited enough to dive into that topic.**
 
