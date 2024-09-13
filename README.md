@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dennys !</h1>
 <h3 align="center">An aspirant for Full Stack Developer.</h3>
-A autoremmember. [^1]
 
 
 - 🔭 I’m currently working on [improve Sass with Bootstrap](https://github.com/dennys-monteiro-daml/treinoBootstrap.git)
