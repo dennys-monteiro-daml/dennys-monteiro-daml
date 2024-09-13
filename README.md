@@ -6,11 +6,11 @@
 
 - 👯 I’m looking to collaborate on [collaborating on creating better environments for Shopify and other similar platforms, I want to get my ideas out of mind and onto canvas.](https://github.com/Shopify)
 
-- 👨‍💻 All of my projects are available at [https://github.com/dennys-monteiro-daml](https://github.com/dennys-monteiro-daml)
+- 👨‍💻 All of my projects are available at [my repos here](https://github.com/dennys-monteiro-daml) and some play at Codepen.
 
 - 💬 Ask me about **start over.**
 
-- 📫 How to reach me **dennyshagamenom@gmail.com** or [Telegram](@devhagamenom)
+- 📫 How to reach me [**e-mail**](dennyshagamenom@gmail.com) or [Telegram](@devhagamenom)
 
 - 📄 Know about my experiences [here.](https://github.com/dennys-monteiro-daml/Caso-de-estudo---PHP-2023/blob/5bd5782cd87735a8be29ea172eaf604336d920bf/Profilelinkedin.pdf)
 
