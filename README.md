@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Dennys !</h1>
 <h3 align="center">An aspirant for Full Stack Developer.</h3>
-
+A autoremmember. [^1]
 
 
 - 🔭 I’m currently working on [improve Sass with Bootstrap](https://github.com/dennys-monteiro-daml/treinoBootstrap.git)
@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on [collaborating on creating better environments for Shopify and other similar platforms, I want to get my ideas out of mind and onto canvas.](https://github.com/Shopify)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dennys-monteiro-daml](https://github.com/dennys-monteiro-daml)
-
-- 📝 I regularly write articles on [futureproject.me](futureproject.me)
 
 - 💬 Ask me about **develop as a team.**
 
@@ -30,6 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennys-monteiro-daml&show_icons=true&locale=en" alt="dennys-monteiro-daml" /></p>
 
-Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
+[^1]: Keep Trying 😊👍 .
