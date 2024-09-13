@@ -2,12 +2,6 @@
 <h3 align="center">An aspirant for Full Stack Developer.</h3>
 
 
-{
-  "firstName": "Dennys",
-  "lastName": "Lucena",
-  "age": 30
-}
-
 
 - 🔭 I’m currently working on [improve Sass with Bootstrap](https://github.com/dennys-monteiro-daml/treinoBootstrap.git)
 
@@ -35,3 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennys-monteiro-daml&show_icons=true&locale=en&layout=compact" alt="dennys-monteiro-daml" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennys-monteiro-daml&show_icons=true&locale=en" alt="dennys-monteiro-daml" /></p>
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
