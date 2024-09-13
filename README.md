@@ -2,7 +2,7 @@
 <h3 align="center">An aspirant for Full Stack Developer.</h3>
 
 
-- 🔭 I’m currently working on [improve Sass with Bootstrap](https://github.com/dennys-monteiro-daml/treinoBootstrap.git)
+- 🔭 I’m currently restarting my route in development carrier.
 
 - 👯 I’m looking to collaborate on [collaborating on creating better environments for Shopify and other similar platforms, I want to get my ideas out of mind and onto canvas.](https://github.com/Shopify)
 
@@ -23,9 +23,6 @@
 <a href="https://codesandbox.com/dennys-monteiro-daml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dennys-monteiro-daml" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennys-monteiro-daml&show_icons=true&locale=en&layout=compact" alt="dennys-monteiro-daml" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennys-monteiro-daml&show_icons=true&locale=en" alt="dennys-monteiro-daml" /></p>
 
 
-[^1]: Keep Trying 😊👍 .
+Keep Trying 😊👍 .
