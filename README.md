@@ -2,6 +2,12 @@
 <h3 align="center">An aspirant for Full Stack Developer.</h3>
 
 
+{
+  "firstName": "Dennys",
+  "lastName": "Lucena",
+  "age": 30
+}
+
 
 - 🔭 I’m currently working on [improve Sass with Bootstrap](https://github.com/dennys-monteiro-daml/treinoBootstrap.git)
 
