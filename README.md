@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently restarting my route in development carrier.
 
-- 👯 I’m looking to collaborate on [collaborating on creating better environments for Shopify and other similar platforms, I want to get my ideas out of mind and onto canvas.](https://github.com/Shopify)
-
 - 👨‍💻 All of my projects are available at [my repos here](https://github.com/dennys-monteiro-daml) and some play at Codepen.
 
 - 💬 Ask me about **start over.**
